@@ -13,7 +13,7 @@ $Id$
      A1：cn.bbs.*计划是专为中国bbs转信服务的，遵守中国教育和科研计算机网
      的各项规定。
      cn.bbs.*计划目前拥有10多台news server，80多个bbs站台，110多个组，传
-	 播范围遍及十多个国家。
+     播范围遍及十多个国家。
 
      Q2：如何加入cn.bbs.*？
      A2：目前各个news server上的cn.bbs.admin和cn.bbs.admin.test组都是开
@@ -21,11 +21,11 @@ $Id$
      http://www.cn-bbs.org/ 申请权限。
 
      Q3：应该使用哪个版本的innbbsd呢？
-     A3：对于大陆目前广泛使用的Firebird(包括3.0K和FB2000)及Maple，我们推
-     荐使用innbbsd-0.50beta-5F版本进行innbbsd的安装，您可以在您所采用的
+     A3：对于大陆目前广泛使用的Firebird(包括KBS和YTHT)及Maple，我们推荐
+     使用innbbsd-0.50beta-5F版本进行innbbsd的安装，您可以在您所采用的
      bbs源码中找到它。
      各个版本的bbs源代码请到ftp://ftp.cn-bbs.org/下载，我们也欢迎您上载
-	 最新的版本。
+     最新的版本。
 
      Q4：如何安装innbbsd呢？
      A4：请仔细阅读innbbsd自带的Readme文件，安装过程中绝大多数的问题都可
