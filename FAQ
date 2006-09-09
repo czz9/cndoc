@@ -2,7 +2,7 @@ Archive-name: cn/bbs/faq
 Posting-Frequency: monthly (1st of each month)
 Last-modified: $LastChangedDate$
 Version: $LastChangedRevision$
-URL: http://bbs.cn.news-admin.org/FAQ.html
+URL: http://www.cn-bbs.org/FAQ.html
 Copyright: (c) 2002-2006 cn.bbs.* Administrative Group
 Maintainer: Zhuangzhi Chen <control@cn-bbs.org>
 
@@ -27,7 +27,7 @@ control messages sent by the group-admin maintainer are easily
 processed with a good degree of security and automation.
 
 This FAQ is also available from:
-	http://bbs.cn.news-admin.org/FAQ.html
+	http://www.cn-bbs.org/FAQ.html
 
 Please send your comments and suggestions to:
 control@cn-bbs.org
