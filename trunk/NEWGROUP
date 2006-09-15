@@ -1,12 +1,12 @@
 Archive-name: cn/bbs/newgroups
 Posting-Frequency: semimonthly (1st and 16th of each month)
-$Id: NEWGROUP,v 1.1 2004/05/31 19:14:14 czz Exp $
+$Id$
 
 本 FAQ 是针对希望在 cn.bbs.* 架构下开设新的新闻组的版主及转信管理员。每
 月一日和十六日自动贴于 cn.bbs.admin 和 cnbbs.admin.manager 组，请尽量参
 考最新版本。
 
-任何意见和建议，请联系<control@cn-bbs.org>.
+任何意见和建议，请联系 control#cn-bbs.org .
 
 一. 如何在 cn.bbs.* 架构下申请新的新闻组？
    0) 请先准备：
@@ -74,7 +74,7 @@ $Id: NEWGROUP,v 1.1 2004/05/31 19:14:14 czz Exp $
 ##        中文组名: 可扩展置标语言
 ##        对应版名: XML
 ##提案人：
-##        microweb@SMTH			BBS 水木清华站 XML 版版主
+##        microweb@SMTH         BBS 水木清华站 XML 版版主
 ##
 ##成立理由：
 ##        a.必要性
@@ -103,11 +103,11 @@ $Id: NEWGROUP,v 1.1 2004/05/31 19:14:14 czz Exp $
 ##        以与 XML 相关的有一定深度的学术课题研究和新应用讨论为主，分为
 ## 5 个大的主题：
 ##        a.XML 为基础的数据发布技术
-##		如：cocoon等
+##      如：cocoon等
 ##        b.Web Services相关
-##		如：SOAP、WSDL、UDDI等
+##      如：SOAP、WSDL、UDDI等
 ##        c.Semi-Structured data/XML DB
-##		如：XML Management System等
+##      如：XML Management System等
 ##        d.Web Semantic/Web ontology
 ##        e.经过 XML 增强后的新技术如 XHTML 的高级主题
 ##        另外，也非常欢迎其他的一些由 XML 衍生出来的新的应用技术的讨论(
@@ -126,26 +126,26 @@ $Id: NEWGROUP,v 1.1 2004/05/31 19:14:14 czz Exp $
 ##<附件一>：本文在 cnbbs.admin.manager 张贴期间支持名单(含版主及转信管理员)
 ##
 ##连署人：(请支持者用 r 模式回复，谢谢配合)
-##        1. nuclear@WestWind			蜀道西风 转信管理员
-##        2. lotusin@SCU			四川大学蓝色星空站 转信管理员
-##        3. tramp@SJTU				饮水思源 转信管理员
-##        4. passed@SMTH			BBS 水木清华站 转信管理员
-##        5. windtear@Windtear			自由世界 转信管理员
-##        6. Czz@Feeling			温馨小屋 XML 版版主
+##        1. nuclear@WestWind       蜀道西风 转信管理员
+##        2. lotusin@SCU            四川大学蓝色星空站 转信管理员
+##        3. tramp@SJTU             饮水思源 转信管理员
+##        4. passed@SMTH            BBS 水木清华站 转信管理员
+##        5. windtear@Windtear      自由世界 转信管理员
+##        6. Czz@Feeling            温馨小屋 XML 版版主
 ##
 ##<附件二>：本文在 cnbbs.admin.manager 张贴期间相关意见汇总
 ##
 ##1.Czz@Feeling (认真干活) wrote:
 ##是叫 cn.bbs.comp.xml 还是 cn.bbs.comp.lang.xml ？
 ##参考已有的：
-##	cn.comp.lang.xml
-##	comp.text.xml
-##	cz.comp.lang.xml
-##	de.comp.text.xml
-##	fj.comp.xml
-##	fr.comp.text.xml
-##	free.it.lang.xml
-##	japan.comp.lang.xml
+##  cn.comp.lang.xml
+##  comp.text.xml
+##  cz.comp.lang.xml
+##  de.comp.text.xml
+##  fj.comp.xml
+##  fr.comp.text.xml
+##  free.it.lang.xml
+##  japan.comp.lang.xml
 ##
 ##2.microweb@SMTH (深呼吸，闭好你的眼睛) wrote:
 ##由于 XML 当前的主要研究包括了 text 方面如 xhtml、doc managerment

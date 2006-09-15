@@ -4,7 +4,7 @@ Last-modified: $LastChangedDate$
 Version: $LastChangedRevision$
 URL: http://www.cn-bbs.org/FAQ.html
 Copyright: (c) 2002-2006 cn.bbs.* Administrative Group
-Maintainer: Zhuangzhi Chen <control@cn-bbs.org>
+Maintainer: Zhuangzhi Chen (control#cn-bbs.org)
 
 
 Introduction
@@ -27,7 +27,7 @@ control messages sent by the group-admin maintainer are easily
 processed with a good degree of security and automation.
 
 This FAQ is also available from:
-	http://www.cn-bbs.org/FAQ.html
+    http://www.cn-bbs.org/FAQ.html
 
 Please send your comments and suggestions to:
 control@cn-bbs.org
@@ -56,18 +56,18 @@ Table of contents
 In May 2002, eight persons were accepted to administer the cn.bbs.*
 hierarchy.  Together they are called "Administrative Group" (AG).
 You can reach them at this address:
-	control@cn-bbs.org
+    control#cn-bbs.org
 
 At this moment, AG consists of:
-	Zhuangzhi Chen	<czz at cn-bbs dot org>
-	Chenglei Peng	<pcl at cn-bbs dot org>
-	Huapeng Chen	<chp at cn-bbs dot org>
-	Hui Xu      	<xh at cn-bbs dot org>
-	Wei Zhang  	<zw at cn-bbs dot org>
-	Xiang Lv	<lx at cn-bbs dot org>
-	Xiubin Qian	<qxb at cn-bbs dot org>
-	Zhankao Wen	<wzk at cn-bbs dot org>
-	Zhihua Huang	<hzh at cn-bbs dot org>
+    Zhuangzhi Chen  (czz at cn-bbs dot org)
+    Chenglei Peng   (pcl at cn-bbs dot org)
+    Huapeng Chen    (chp at cn-bbs dot org)
+    Hui Xu          (xh at cn-bbs dot org)
+    Wei Zhang       (zw at cn-bbs dot org)
+    Xiang Lv        (lx at cn-bbs dot org)
+    Xiubin Qian     (qxb at cn-bbs dot org)
+    Zhankao Wen     (wzk at cn-bbs dot org)
+    Zhihua Huang    (hzh at cn-bbs dot org)
 
 
 3. What does the AG do to administer cn.bbs.*?
