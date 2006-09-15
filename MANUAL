@@ -1,6 +1,6 @@
 Archive-name: cn/bbs/manual
 Posting-Frequency: semimonthly (1st and 16th of each month)
-$Id: MANUAL,v 1.1 2004/05/31 19:14:14 czz Exp $
+$Id$
 
 本 FAQ 是针对正在或希望同 cn.bbs.* 新闻组转信的转信版版主及转信管理员。
 每月一日和十六日自动贴于 cn.bbs.admin 和 cnbbs.admin.manager 组，请尽量
@@ -12,7 +12,7 @@ $Id: MANUAL,v 1.1 2004/05/31 19:14:14 czz Exp $
 文中如无特殊说明，“转信”指的是“通过 cn.bbs.* 新闻组同其他版面进行转
 信”。
 
-任何意见和建议，请联系<control@cn-bbs.org>.
+任何意见和建议，请联系 control#cn-bbs.org .
 
 Q1: 我的版面是否应该加入转信？
 A1: 转信的优点是显而易见的。通过转信可以方便的获取、快速的发布、毫无阻
