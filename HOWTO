@@ -79,7 +79,7 @@ $Id$
      nodelist.bbs:
 
      Feeling    feeling.cn-bbs.org     IHAVE(7777)     温馨小屋
-     cnnews     news.zixia.net   POST(119)       cn.bbs.*新闻组
+     cnnews     news.pigpark.net   POST(119)       cn.bbs.*新闻组
 
      cnnews.active:
 
@@ -96,12 +96,12 @@ $Id$
 
      Q7：如何执行innbbsd呢？
      A7：运行innbbsd之后，在innd目录下执行
-        ./bbsnnrp news.zixia.net cnnews.active
+        ./bbsnnrp news.pigpark.net cnnews.active
      进行转入，执行
         ./bbslink -v ~bbs
      进行转出。
      也可以加入crontab中，每隔一定时间自动执行。如写成:
-0,15,30,45 * * * * ~bbs/innd/bbsnnrp news.zixia.net cnnews.active>/dev/null 2>&1
+0,15,30,45 * * * * ~bbs/innd/bbsnnrp news.pigpark.net cnnews.active>/dev/null 2>&1
 * * * * * ~bbs/innd/bbslink ~bbs >~bbs/tmp/portnum
 
      Q8：如何增加全国十大热门话题？
